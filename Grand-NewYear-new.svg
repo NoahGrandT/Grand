@@ -7,11 +7,7 @@
 
   <defs>
     <!-- Hintergrund-Radialverlauf (dunkel -> leicht beleuchtet) -->
-    <radialGradient id="bgRad" cx="50%" cy="30%" r="80%">
-      <stop offset="0%"  stop-color="#0b1020"/>
-      <stop offset="50%" stop-color="#0f1630"/>
-      <stop offset="100%" stop-color="#071021"/>
-    </radialGradient>
+
 
     <!-- Regenbogen-Gradient für die Pfade -->
     <linearGradient id="rainbowGradient" x1="0%" y1="0%" x2="100%" y2="100%">
